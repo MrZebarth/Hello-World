@@ -12,7 +12,7 @@ public class HelloWorld {
 		 * a multiline
 		 * comment
 		 */
-		System.out.println("Hello World!");
+		System.out.println("Goodbye World!");
 		System.out.print("This is my first program");
 		System.out.println("Isn't this fun??");
 		System.out.println("He said \"Do this now!\"");
